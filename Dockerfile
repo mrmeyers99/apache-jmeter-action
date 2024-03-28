@@ -1,4 +1,4 @@
-FROM bandwidth-docker.jfrog.io/alpine:3.14
+FROM alpine:3.14
 
 LABEL "maintainer" "Ravindra Bhadti, @rbhadti94"
 LABEL "com.github.actions.name"="apache-jmeter"
